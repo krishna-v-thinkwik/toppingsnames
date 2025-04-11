@@ -1,0 +1,12 @@
+{
+  "name": "topping-api",
+  "version": "1.0.0",
+  "description": "API to normalize pizza toppings",
+  "main": "toppingsnames.js",
+  "scripts": {
+    "start": "node toppingsnames.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
